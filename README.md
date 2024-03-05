@@ -31,7 +31,7 @@ customtkinter library
 **Navigate to the project directory:**
 
 ```
-    cd password-strength-checker
+    cd passwordstrength
 ```
 
 **Run the passwordstrength.py script:**
