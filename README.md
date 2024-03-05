@@ -20,7 +20,7 @@ customtkinter library
 
 **Clone the repository to your local machine:**
 ```
-  git clone https://github.com/your_username/password-strength-checker.git
+  git clone https://github.com/qnvr/Password-Strength.git
 ```
 **Install the required dependencies:**
 ```
